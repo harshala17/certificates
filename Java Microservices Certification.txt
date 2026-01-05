@@ -1,0 +1,20 @@
+https://app.pluralsight.com/achievements/share/01fe4c52-868d-46c2-abb3-ca192d7a907b - Mastering Object-oriented Programming in Java 8
+
+https://app.pluralsight.com/achievements/share/004dc7d9-6b76-457b-838c-4167ce9ce705 - Building Scalable Java Microservices with Spring Boot and Spring Cloud
+
+https://app.pluralsight.com/achievements/share/d1b6f00c-374f-4c4e-85d6-1b5a822f0372 - Designing APIs for Microservices
+
+https://app.pluralsight.com/achievements/share/e7a778f9-b4f1-4c58-8c11-de7623afcece - Microservices Security
+
+https://app.pluralsight.com/achievements/share/231187a2-bdf9-4731-a573-859b75c9d845 - Microservices DevOps
+
+https://app.pluralsight.com/achievements/share/84acba2f-3f1e-4e03-aa4f-5be2b1be4865 - Building Microservices
+
+https://app.pluralsight.com/achievements/share/dd050034-8ec1-4e2d-a469-c9681a96f098 - Microservices Architecture Fundamentals
+
+https://app.pluralsight.com/achievements/share/e4f72baa-49ce-4412-a869-4fc5e4a6d471 - Microservices: Getting Started
+
+https://app.pluralsight.com/achievements/share/3f097bc3-829d-4704-adc3-2aea9a2fe0c7 - Java Microservices with Spring Cloud: Developing Services
+
+
+
